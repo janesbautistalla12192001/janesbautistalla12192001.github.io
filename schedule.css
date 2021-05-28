@@ -5,8 +5,8 @@
 
 body 
     {
-        background-color: #ffd7ba;
-	border:10px solid grey;
+        background-color: #FFF8DC;
+	border:10px solid yellow;
     }
 table{
 	margin-top: 10px;
@@ -15,20 +15,20 @@ table{
 	float: center;
      }
 
-p1   {	color:grey;
-	font-family: rockwell;
+p1   {	color:black;
+	font-family: monaco;
  	font-size: 60px;
 	text-align:center;
       }
 
-p    {	color: grey;
-	font-family: courier new;
+p    {	color: black;
+	font-family: ;
 	text-align: center;
 	font-size:20px
      }
 
 td   {	color: black;
-     	font-family: rockwell;
+     	font-family: georgia;
      	font-size: 20px;
         padding: 10px;
 	text-align:center;
